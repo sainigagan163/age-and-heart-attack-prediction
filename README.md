@@ -70,6 +70,7 @@ Metric: Carotid Intima-Media Thickness (CIMT).
 
 Threshold: > 0.90 mm indicates high cardiovascular risk.
 
+<img width="375" height="657" alt="Screenshot 2025-12-15 at 15 41 53" src="https://github.com/user-attachments/assets/864acef7-0575-4a45-9709-a75bcddbb8d8" />
 
 [INSERT SCREENSHOT OF HEART APP HERE] (Replace this text with your screenshot, e.g., )
 
