@@ -89,14 +89,3 @@ Used the China Fundus (CIMT) Dataset containing 2,903 high-resolution fundus ima
 Streamlit for the UI framework.
 
 TensorFlow for the neural network backend.
-
-
----
-
-### **Instructions for your Screenshots**
-
-1.  **Run the App:** Run `streamlit run app_heart.py`.
-2.  **Upload an Image:** Pick an image from your `images` folder (e.g., one where the filename in CSV has a thickness > 0.9).
-3.  **Take a Screenshot:** Use the "Snipping Tool" (Windows) or `Cmd+Shift+4` (Mac) to take a picture of the web browser showing the "High Risk" result.
-4.  **Save:** Save the image as `heart_result.png`.
-5.  **Edit README:** Open the `README.md` file and drag-and-drop your image into the section where I wrote `[INSERT SCREENSHOT HERE]`.
