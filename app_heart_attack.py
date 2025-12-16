@@ -5,6 +5,7 @@ import numpy as np
 from PIL import Image
 import os
 
+
 # --- CONFIGURATION ---
 MODEL_FILENAME = 'heart_model.h5' 
 
