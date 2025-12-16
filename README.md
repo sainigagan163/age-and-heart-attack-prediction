@@ -70,8 +70,7 @@ Metric: Carotid Intima-Media Thickness (CIMT).
 
 Threshold: > 0.90 mm indicates high cardiovascular risk.
 
-
-[INSERT SCREENSHOT OF HEART APP HERE] (Replace this text with your screenshot, e.g., )
+https://github.com/user-attachments/assets/4294a217-01d1-46c5-97eb-d96595d8e81b
 
 Interpretation: In the example above, the model analyzed the fundus image and predicted a CIMT of 1.2mm. Since this is above the 0.9mm threshold, the system flagged this patient as "High Risk", suggesting potential atherosclerosis or hypertension that requires clinical attention.
 
@@ -79,7 +78,7 @@ Interpretation: In the example above, the model analyzed the fundus image and pr
 
 The model predicts the patient's age. Large discrepancies between "Predicted Age" and "Actual Age" (Retinal Age Gap) can indicate health issues.
 
-[INSERT SCREENSHOT OF AGE APP HERE] (Replace this text with your screenshot)
+https://github.com/user-attachments/assets/5d0f4f76-15ec-4b96-b985-83d440e444cf
 
 Interpretation: The AI analyzed the vessel density and predicted an age of 68 years. If the patient is actually 50 years old, this "Age Gap" suggests their blood vessels are aging faster than normal, potentially due to smoking or diabetes.
 
